@@ -46,9 +46,3 @@ This project implements a Transformer model from scratch using PyTorch, for Engl
    * Tokenize, pad, and prepare inputs.
    * Train with Cross-Entropy Loss and `Adam` optimizer.
 
-8. **Evaluation (Optional)**
-
-   * Predict German translations for test data.
-   * Evaluate with **BLEU score**.
-   * Plot training loss over epochs and report BLEU numerically.
-
